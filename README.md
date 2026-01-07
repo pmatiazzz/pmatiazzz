@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Olá, tudo bem?
 🔭 Me chamo Pedro Matias, e atualment busco oportunidades como desenvolvedor FullStack<br>📚 Estudo programação desde do inicio do meu ensino médio até hoje, onde estou finalizando minha graduação em Analise e Desenvolvimento de Sistemas<br>❤️ Gosto muito de criar, planejar interfaces atrativas e dinâmicas para todos, como também integrar banco de dados, criar rotas e APIs para meus projetos.<br>🌱 Atualmente tenho foco em Node.Js + React<br>⚡ Fun fact: Tenho dois pets, uma 🐶 com foco em lamber toda visita chamada Pan, e uma 😾 chamada Meg, patenteada de siamesa mais preguiçosa em solo nacional.
 
 
